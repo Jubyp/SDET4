@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-14T11:54:58 IST" name="Suite" finished-at="2020-12-14T11:58:02 IST" duration-ms="183927">
+    <groups>
+    </groups>
+    <test started-at="2020-12-14T11:54:58 IST" name="Test" finished-at="2020-12-14T11:58:02 IST" duration-ms="183927">
+      <class name="AppiumProject.GoogleChrome1">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:AppiumProject.GoogleChrome1@4a668b6e]" started-at="2020-12-14T11:54:58 IST" name="beforeClass" finished-at="2020-12-14T11:55:09 IST" duration-ms="11629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="chrome()[pri:0, instance:AppiumProject.GoogleChrome1@4a668b6e]" started-at="2020-12-14T11:55:10 IST" name="chrome" finished-at="2020-12-14T11:55:43 IST" duration-ms="33195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chrome -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:AppiumProject.GoogleChrome1@4a668b6e]" started-at="2020-12-14T11:55:43 IST" name="tearDown" finished-at="2020-12-14T11:55:44 IST" duration-ms="1674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- AppiumProject.GoogleChrome1 -->
+      <class name="AppiumProject.GoogleChrome3">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:AppiumProject.GoogleChrome3@78ffe6dc]" started-at="2020-12-14T11:56:29 IST" name="beforeClass" finished-at="2020-12-14T11:56:42 IST" duration-ms="13090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="PopupLogin()[pri:0, instance:AppiumProject.GoogleChrome3@78ffe6dc]" started-at="2020-12-14T11:56:42 IST" name="PopupLogin" finished-at="2020-12-14T11:58:00 IST" duration-ms="77766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PopupLogin -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:AppiumProject.GoogleChrome3@78ffe6dc]" started-at="2020-12-14T11:58:00 IST" name="afterClass" finished-at="2020-12-14T11:58:02 IST" duration-ms="1455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- AppiumProject.GoogleChrome3 -->
+      <class name="AppiumProject.GoogleChrome2">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:AppiumProject.GoogleChrome2@5f683daf]" started-at="2020-12-14T11:55:44 IST" name="beforeClass" finished-at="2020-12-14T11:55:58 IST" duration-ms="13534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="LoginPage()[pri:0, instance:AppiumProject.GoogleChrome2@5f683daf]" started-at="2020-12-14T11:55:58 IST" name="LoginPage" finished-at="2020-12-14T11:56:28 IST" duration-ms="30247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPage -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:AppiumProject.GoogleChrome2@5f683daf]" started-at="2020-12-14T11:56:28 IST" name="afterClass" finished-at="2020-12-14T11:56:29 IST" duration-ms="1203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- AppiumProject.GoogleChrome2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
